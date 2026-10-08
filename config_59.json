@@ -1,0 +1,6 @@
+{
+    "appName": "iOS App Store Icon Extractor",
+    "version": "2.0.0",
+    "environment": "production",
+    "supportedSizes": [60, 100, 180, 512, 1024]
+}
